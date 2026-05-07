@@ -1,4 +1,4 @@
-# ☁ Cloud Infrastructure Monitoring Dashboard
+# ☁ Cloud Monitoring Dashboard
 
 A **professional, resume-worthy** Cloud Infrastructure Monitoring Dashboard built with **Python & Flask** — no Docker, no Kubernetes, no complex setup required.
 
